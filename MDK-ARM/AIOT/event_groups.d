@@ -1,0 +1,15 @@
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+aiot\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+aiot\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+aiot\event_groups.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+aiot\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+aiot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

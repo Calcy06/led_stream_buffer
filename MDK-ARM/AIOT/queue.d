@@ -1,0 +1,15 @@
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+aiot\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+aiot\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+aiot\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+aiot\queue.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+aiot\queue.o: ../Core/Inc/FreeRTOSConfig.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+aiot\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

@@ -1,0 +1,12 @@
+aiot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+aiot\list.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+aiot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+aiot\list.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+aiot\list.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+aiot\list.o: ../Core/Inc/FreeRTOSConfig.h
+aiot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+aiot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+aiot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+aiot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+aiot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+aiot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

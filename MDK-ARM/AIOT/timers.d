@@ -1,0 +1,15 @@
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+aiot\timers.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+aiot\timers.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+aiot\timers.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+aiot\timers.o: ../Core/Inc/FreeRTOSConfig.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+aiot\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

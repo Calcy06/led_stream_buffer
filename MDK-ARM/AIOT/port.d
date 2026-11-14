@@ -1,0 +1,12 @@
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+aiot\port.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+aiot\port.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+aiot\port.o: ../Core/Inc/FreeRTOSConfig.h
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+aiot\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

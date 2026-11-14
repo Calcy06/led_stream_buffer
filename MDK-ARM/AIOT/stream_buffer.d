@@ -1,0 +1,14 @@
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+aiot\stream_buffer.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+aiot\stream_buffer.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+aiot\stream_buffer.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+aiot\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+aiot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
